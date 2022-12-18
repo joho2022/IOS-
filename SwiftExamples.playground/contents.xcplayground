@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='ex01'/>
+        <page name='ex02'/>
+        <page name='ex03'/>
+        <page name='ex04'/>
+        <page name='ex05'/>
+        <page name='ex06'/>
+        <page name='ex07'/>
+    </pages>
+</playground>
