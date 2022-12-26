@@ -22,4 +22,3 @@ var hello = "Hello, Swift"
  주석문
  */
 
-var zz = "ww"
